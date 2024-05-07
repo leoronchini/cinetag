@@ -1,4 +1,4 @@
-import Inicio from "pages/inicio";
+import Inicio from "pages/Inicio";
 import Favoritos from "pages/Favoritos";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Player from "pages/Player";
